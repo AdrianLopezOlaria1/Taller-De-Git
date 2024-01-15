@@ -1,2 +1,4 @@
 #Autores del Proyecto
--Adrián
+
+* Adrián
+* John DOe
